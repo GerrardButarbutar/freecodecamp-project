@@ -1,0 +1,95 @@
+body{
+  background-color: #eeeeee;
+  margin: 0 auto;
+  width: 100%;
+}
+
+#get-started{
+  text-align: center;
+  margin-top: 5rem;
+}
+
+#email{
+  font-size: 13px;
+  border-radius: 2px;
+  border: black solid 0.5px;
+  height: 28px;
+  margin-bottom: 10px;
+}
+
+#submit{
+  display: block;
+  margin: 0 auto;
+  background-color: #013d93;
+  border-radius: 4px;
+  border: #f1c40f;
+  color: white;
+}
+
+section{
+  padding-top: 4rem;
+}
+
+.bi{
+  color: #013d93;
+}
+
+.bi-gem{
+  font-size: 80px;
+}
+
+.bi-truck{
+  font-size: 80px;
+}
+
+.bi-check2-circle{
+  font-size: 80px;
+}
+
+#vid{
+  text-align: center;
+}
+
+.card{
+  width: 18rem;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.card-header{
+  text-align: center;
+}
+
+.card-body li{
+  list-style: none;
+  padding-right: 35px;  
+}
+
+.card-body ul{
+  text-align: center;
+}
+
+.card button{
+  display: block;
+  margin: 0 auto;
+  background-color: #f1c40f;
+  border-radius: 4px;
+  height: 35px;
+  width: 90px;
+  border: #f1c40f;
+}
+
+form a{
+  text-decoration: none;
+}
+
+footer{
+  text-align: center;
+}
+
+#small-p{
+  font-size: 12px;
+  font-style: italic;
+}

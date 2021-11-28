@@ -1,0 +1,77 @@
+body{
+  font-family: sans-serif;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#main{
+  background-color: #eee;
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+#description{
+  font-style: italic;
+}
+
+#survey-form{
+  background-color: #eeeee;
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 5px;
+  text-align: left;
+  border: solid black;
+}
+
+#form-container{
+  width: 90%;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+#name, #email, #number, #dropdown{
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  height:30px;
+  border-color: white;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#comment{
+  display: block;
+  width: 95%;
+  height: 100px;
+  border-radius: 5px;
+  margin-top: 10px;
+  border: white;
+}
+
+.input-radio, .checkbox{
+  display: block;
+  margin-bottom: 10px;
+}
+
+#submit{
+  width: 96%;
+  margin-top: 20px;
+  height: 35px;
+  margin-bottom: 30px;
+  background-color: green;
+  border: green;
+  border-radius: 5px;
+  color: white;
+}
+
+#submit:hover{
+  opacity: 0.7;
+}
+
+footer a{
+  text-decoration: none;
+  color: black;
+}
